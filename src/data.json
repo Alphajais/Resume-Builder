@@ -2,7 +2,7 @@
 	"contact": {
 		"name": "John Doe",
 		"photoUrl": "https://cdn0.iconfinder.com/data/icons/user-pictures/100/malecostume-512.png",
-		"location": "Asuliya, Dhaka, Bangladesh",
+		"location": "Assotech Ghaziabad, India",
 		"phone": "+91 0123456789",
 		"email": "johndoe123@example.com",
 		"linkedin": "linkedin.com/in/johndoe123",
@@ -15,33 +15,32 @@
 		{
 			"year": "Aug 2017 - Aug 2021",
 			"course": "B.Sc in Software Engineering – (In Progress)",
-			"institution": "Daffodil International University",
-			"university": "Dhaka, Bangladesh",
+			"institution": "Abes International University",
+			"university": "Ghaziabad, India",
 			"percentage": "3.96",
 			"achievements": "Publication of IOT Based Home Automation System with Cloud Organizing in International Journal of Engineering & Technology"
 		},
 		{
 			"year": "July 2017",
 			"course": "Higher Secondary Certificate (HSC)",
-			"institution": "Cantonment Public School & Collage, Lalmonirhat",
-			"university": "Dinajpur Board",
+			"institution": "Cantonment Public School & College, Ghaziabad",
+			"university": "Aktub University",
 			"percentage": "5.00",
 			"achievements": ""
 		},
 		{
 			"year": "April 2015",
 			"course": "Secondary School Certificate (SSC)",
-			"institution": "Phakal Police lines school, Lalmonirhat",
-			"university": "Dinajpur Board",
+			"institution": "Phakal Police lines school, Ghaziabad",
+			"university": "Cbse Board",
 			"percentage": "5.00",
 			"achievements": "Recipient of General Grade Scholarship in JSC."
 		}
 	],
 
 	"languages": [
-		{ "language": "Bangla", "level": 5 },
 		{ "language": "English", "level": 5 },
-		{ "language": "Hindi", "level": 3 }
+		{ "language": "Hindi", "level": 5 }
 	],
 
 	"experience": [
@@ -146,7 +145,7 @@
 
 	"references": [
 		{
-			"name": "SAM Matiur Rahman ",
+			"name": "Atul Jaiswal ",
 			"desig": "Assistant Professor & Associate Head, Department of Software Engineering, Daffodil International University. ",
 			"phone": "+91 0123456789",
 			"email": "email@example.com"
